@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+}
+
+.content {
+	display: flex;
+	padding: 20px;
+}
+
+.weather-current {
+	margin-right: auto;
+}
+
+.weather-details {
+	margin-left: auto;
+}
