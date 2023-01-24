@@ -59,4 +59,3 @@ const updateWeather = (obj) => {
 	// rain.textContent = obj.main.humidity; catch ERROR if not in response!
 	wind.textContent = obj.wind.speed;
 };
-console.log("HELLO");
